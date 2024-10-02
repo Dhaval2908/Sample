@@ -1,17 +1,10 @@
 # Sample Repository
 
-This is a sample repository to demonstrate the GitHub API integration in a Node.js application.
+This is a sample repository to demonstrate displaying GitHub repository content using a Node.js app.
 
-## Sections
-- Section 1: Introduction
-- Section 2: Setup
-- Section 3: Conclusion
+## Table of Contents:
+1. [Introduction](./introduction.md)
+2. [Setup](./setup.md)
+3. [Conclusion](./conclusion.md)
 
-### Section 1: Introduction
-This section introduces the purpose of this repository.
-
-### Section 2: Setup
-Here is the setup information for this repository.
-
-### Section 3: Conclusion
-This is the conclusion of this sample repository.
+Each section will guide you through a different aspect of the repository.
